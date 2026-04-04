@@ -1,0 +1,37 @@
+# Diretórios de Build e Compilação
+bin/
+obj/
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.logs
+
+# Arquivos temporários gerados
+*.tmp
+*.temp
+*.bak
+
+# Arquivos de configuração local
+local.settings.json
+
+# NuGet
+*.nupkg
+
+# Arquivos de resolução de conflito de merge
+*.orig
